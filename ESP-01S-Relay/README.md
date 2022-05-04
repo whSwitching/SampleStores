@@ -1,6 +1,6 @@
 ### Hardware
 [ESP-8266](https://docs.ai-thinker.com/esp8266)
-* <img src='https://docs.ai-thinker.com/_media/esp8266/spec/esp8266_all.png?w=700&tok=97ee19' style='width:200px;height:400px'/>
+* <img src='https://docs.ai-thinker.com/_media/esp8266/spec/esp8266_all.png?w=700&tok=97ee19' style='width:200px;height:200px'/>
 [ESP-01S-Relay](https://github.com/IOT-MCU/ESP-01S-Relay-v4.0)
 * ![ESP-01S-Relay](https://www.geekering.com/wp-content/uploads/2020/03/Screenshot_6-296x300.png)
 
